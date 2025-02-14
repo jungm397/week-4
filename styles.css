@@ -4,16 +4,19 @@ body {
 
 h1{
     color: rgb(163, 34, 34);
+    font-family: "helvetica", sans-serif;
 
 }
 
 h2{
     color: rgb(39, 156, 60);
+    font-family: "courier", sans-serif;
 
 }
 
 h3{
     color: rgb(18, 87, 127);
+    font-family: sans-serif;
 
 }
 
